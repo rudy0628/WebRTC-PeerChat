@@ -1,5 +1,3 @@
-import AGORA_APP_ID from './apikey.js';
-
 // agora variable
 let APP_ID = AGORA_APP_ID;
 let token = null;
